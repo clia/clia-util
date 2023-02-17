@@ -4,7 +4,7 @@ use serde::Serialize;
 /// 
 /// ```rust
 /// let params = [("foo", "bar"), ("baz", "quux")];
-/// assert_eq!(clia_util::url::query_string::collection::tuple_array::format(&params), "foo=bar&baz=quux");
+/// assert_eq!(clia_url_qs::from_tuple_array(&params), "foo=bar&baz=quux");
 /// ```
 /// 
 /// If input is invalid, return error message.
