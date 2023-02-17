@@ -2,6 +2,13 @@
 name = "clia-url-qs"
 version = "0.1.0"
 edition = "2021"
+authors = ["clia <clia@163.com>"]
+description = "Utility methods for URL query string."
+repository = "https://github.com/clia/clia-util"
+license = "MIT"
+readme = "README.md"
+categories = ["web-programming"]
+keywords = ["url", "query", "string", "format"]
 
 [dependencies]
 serde = "1.0.152"
