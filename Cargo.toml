@@ -1,8 +1,4 @@
-[package]
-name = "clia-util"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-serde = "1.0.152"
-serde_urlencoded = "0.7.1"
+[workspace]
+members = [
+    "clia-url-qs",
+]
