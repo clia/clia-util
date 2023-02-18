@@ -2,6 +2,6 @@
 
 A collection of Rust utility methods.
 
-## Crates list
+## Crate list
 
 - [clia-url-qs](clia-url-qs): URL query string.
