@@ -2,6 +2,8 @@
 
 Utility methods for URL query string.
 
+Member of [clia-util](https://github.com/clia-util).
+
 ## Usage
 
 `from_tuple_array`
