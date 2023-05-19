@@ -2,7 +2,7 @@
 
 Utility methods for URL query string.
 
-Member of [clia-util](https://github.com/clia-util).
+Member of [clia-util](https://github.com/clia/clia-util).
 
 ## Usage
 
