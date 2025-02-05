@@ -1,6 +1,6 @@
 [package]
 name = "clia-url-qs"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["clia <clia@163.com>"]
 description = "Utility methods for URL query string."
@@ -11,6 +11,6 @@ categories = ["web-programming"]
 keywords = ["url", "query", "string", "format"]
 
 [dependencies]
-anyhow = "1.0.69"
-serde = "1.0.152"
-serde_urlencoded = "0.7.1"
+anyhow = "1"
+serde = "1"
+serde_urlencoded = "0.7"
