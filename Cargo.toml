@@ -1,4 +1,3 @@
 [workspace]
-members = [
-    "clia-url-qs",
-]
+members = ["clia-macaddr", "clia-url-qs"]
+resolver = "2"
